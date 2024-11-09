@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=KANISHKSHUKLA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KANISHKSHUKLA&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KANISHKSHUKLA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![](https://visitcount.itsvg.in/api?id=KANISHKSHUKLA&label=Profile%20Views&color=9&pretty=false)](https://visitcount.itsvg.in)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KANISHKSHUKLA&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
