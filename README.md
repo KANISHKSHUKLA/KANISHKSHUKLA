@@ -20,7 +20,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+[![An image of @kanishkshukla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kanishkshukla)](https://holopin.io/@kanishkshukla)
 ---
 [![](https://visitcount.itsvg.in/api?id=KANISHKSHUKLA&icon=0&color=6)](https://visitcount.itsvg.in)
 
