@@ -1,7 +1,7 @@
 ![Android Club (4)](https://github.com/user-attachments/assets/29482e68-6364-41d6-9d9b-2c83ca080f2c)
 
 
-# 💫 About Me:
+#  About Me:
 🔭I'm currently working on a end to end notes app with built in Ai interpreter that can understand the context of the notes, and can provide solutions based on it.<br>👯I'm currently looking to collaborate on some opensource projects based on GenAi, ML and Backend<br>🌱I'm on a road of learning backend alongside cloud.<br><br><br>
 
 
