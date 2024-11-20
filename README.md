@@ -2,7 +2,7 @@
 
 
 #  About Me:
-🔭I'm currently working on a end to end notes app with built in Ai interpreter that can understand the context of the notes, and can provide solutions based on it.<br>👯I'm currently looking to collaborate on some opensource projects based on GenAi, ML and Backend<br>🌱I'm on a road of learning backend alongside cloud.<br><br><br>
+👯I'm currently looking to collaborate on some opensource projects based on GenAi, ML and Backend<br>🌱I'm on a road of learning backend alongside cloud.<br><br><br>
 
 
 ## 🌐 Socials:
