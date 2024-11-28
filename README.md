@@ -2,7 +2,7 @@
 
 
 #  About Me:
-👯I'm currently looking to collaborate on some opensource projects based on GenAi, ML and Backend<br>🌱I'm on a road of learning backend alongside cloud.<br><br><br>
+👯I'm currently looking to collaborate on some opensource projects based on GenAi, ML <br>🌱I'm on a road of learning backend alongside cloud.<br><br><br>
 
 
 ## 🌐 Socials:
