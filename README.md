@@ -4,7 +4,7 @@
 #  About Me:
 👯I'm currently looking to collaborate on some opensource projects based on GenAi, ML <br>🌱I'm on a road of learning backend alongside cloud.<br><br><br>
 
-
+[![An image of @kanishkshukla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kanishkshukla)](https://holopin.io/@kanishkshukla)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishkshukla3/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@kanishkshukla211) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Kanishk4900) 
 # 💻 Tech Stack:
@@ -19,7 +19,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
-[![An image of @kanishkshukla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kanishkshukla)](https://holopin.io/@kanishkshukla)
+
 ---
 <!--[![](https://visitcount.itsvg.in/api?id=KANISHKSHUKLA&label=Profile%20Views&color=9&pretty=false)](https://visitcount.itsvg.in)
 
